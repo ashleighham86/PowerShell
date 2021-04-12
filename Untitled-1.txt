@@ -1,0 +1,8 @@
+args": ["--extensionDevelopmentPath=${workspaceRoot}" ],
+			"stopOnEntry": false,
+			"sourceMaps": true,
+			"outDir": "out/src",
+			"outDir": "${workspaceRoot}/out/src",
+			"preLaunchTask": "npm"
+		},
+        
